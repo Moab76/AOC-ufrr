@@ -2,6 +2,10 @@
 
 Este projeto utiliza o **Logisim** para criar um circuito lógico que verifica se um número binário (de 4 bits) é primo. A lógica foi desenvolvida a partir da simplificação de expressões booleanas usando o **Mapa de Karnaugh**.
 
+![Circuito](./Imagens/NUMEROPRIMO.png)
+
+[Link do circuito](./17-Numero-Primo.circ)
+
 ## Descrição do Circuito
 
 ### Entradas
@@ -50,4 +54,3 @@ O circuito é composto por:
 - Redução no número de portas lógicas necessárias.  
 - Menor consumo de recursos no circuito.  
 - Melhor desempenho e clareza na implementação.
-    
