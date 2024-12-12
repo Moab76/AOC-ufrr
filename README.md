@@ -31,4 +31,7 @@ Cada componente está armazenado em uma pasta específica, que inclui sua explic
 | 16 | [Decodificador 7 segmentos](./Circuito%2016/)|
 | 17 | [Detector de número primo de 4 bits](./Circuito%2017/) |
 
+---
+[Relatório técnico](./AOC_AnderssonSilvaArthurRamos_UFRR_LabCircuitos_2024.pdf)
+
 
